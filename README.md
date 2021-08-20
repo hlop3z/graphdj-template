@@ -5,7 +5,7 @@ Welcome to **Django's GraphDJ Template!**
 ## Installation
 ```sh
 django-admin startproject \
-  --template=http://git.dufeut.com/hlop3z/django-template/archive/master.zip \
+  --template=https://github.com/hlop3z/graphdj-template/archive/master.zip \
   --name=Procfile \
   new_django_project
 ```
