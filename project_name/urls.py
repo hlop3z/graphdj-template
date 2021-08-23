@@ -21,7 +21,7 @@ if not settings.DEBUG:
 # GraphQL Api
 GapiView = csrf_exempt(
     #GraphQLView or PrivateGraphQLView
-    PrivateGraphQLView.as_view(graphiql=settings.DEBUG, schema=schema, middleware=middleware)
+    GraphQLView.as_view(graphiql=settings.DEBUG, schema=schema, middleware=middleware)
 )
 
 # URLs
