@@ -49,11 +49,11 @@
         },
         "graphdj": {
             "hashes": [
-                "sha256:b072d8b450f314e0f8ccee1d4cdb2245d90f29de7b98bbd7df1c2ff7e6e2389d",
-                "sha256:c0908d0a79ff51807f9e12596cfc0ae0fb2847f69ee47cbea3cf70fe9e158973"
+                "sha256:43a13f6f4463f0c6d5d7c962f627e711c387d120df8ba4468bcbdee497c3d058",
+                "sha256:c924de44e292fa2444fd428dc6c44e43303dfe82a23610bb7462b73fc25beace"
             ],
             "index": "pypi",
-            "version": "==0.1.0"
+            "version": "==0.1.5"
         },
         "graphene": {
             "hashes": [
@@ -90,6 +90,14 @@
                 "sha256:dfd18337c523ba4b6a58801c164c1904a9d4d1b1747c7d5dbf45b693a49d93d0"
             ],
             "version": "==2.3"
+        },
+        "python-json-logger": {
+            "hashes": [
+                "sha256:202a4f29901a4b8002a6d1b958407eeb2dd1d83c18b18b816f5b64476dde9096",
+                "sha256:99310d148f054e858cd5f4258794ed6777e7ad2c3fd7e1c1b527f1cba4d08420"
+            ],
+            "markers": "python_version >= '3.5'",
+            "version": "==2.0.2"
         },
         "pytz": {
             "hashes": [
