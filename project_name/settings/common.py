@@ -8,6 +8,8 @@ AUTH_USER_MODEL = "users.User"
 
 # Include Core Apps
 INSTALLED_APPS += [
+    # Users
+    "users",
     # Filters
     "django_filters",
     # GraphQL
