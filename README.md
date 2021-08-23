@@ -5,9 +5,9 @@ Welcome to **Django's GraphDJ Template!**
 ## Installation
 ```sh
 django-admin startproject \
-  --template=https://github.com/hlop3z/graphdj-template/archive/master.zip \
+  --template=https://github.com/hlop3z/graphdj-template/archive/refs/heads/main.zip \
   --name=Procfile \
-  new_django_project
+  write_your_project_name_here
 ```
 
 ## Then — Recreate in **Development**
