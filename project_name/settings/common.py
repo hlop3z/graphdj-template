@@ -31,10 +31,12 @@ GRAPHDJ = {
     "ADMIN": True,
     "CAMELCASE": True,
     "ROLES_ACCESS": ROLES,
+    "GUEST_NAME": "visitor",
     "DEFAULT_ROLE": 0,
     "QUERIES_INFO": "Awesome Queries!",
     "MUTATIONS_INFO": "Awesome Mutations!",
     "ROLES": {
+        0: "visitor",
         # ...
     },
     "APPS": [
